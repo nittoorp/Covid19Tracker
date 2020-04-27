@@ -6,4 +6,4 @@ The user can check the open stores to buy essentials around him.
 
 
 # Covid19 Application 
-  github link : 
+  github link : https://github.com/nittoorp/CovidTracker19
